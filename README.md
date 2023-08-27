@@ -23,7 +23,7 @@ This project implements a non-contact river flow measurement system using comput
 
 3. **Configuration:**
    - Adjust camera placement for optimal view of the river's surface.
-   - Configure any parameters related to image processing and flow calculation in the code (if applicable).
+   - Configure any parameters related to image processing and flow calculation in the code.
 
 4. **Running the System:**
    - Navigate to the project directory and run `python main.py` to start the flow measurement system.
@@ -34,10 +34,6 @@ This project implements a non-contact river flow measurement system using comput
 1. Monitor flow patterns: Observe the river's surface through the video feed to monitor flow patterns and changes.
 
 2. Calculate discharge rate: The system processes the captured images to calculate the river's discharge rate based on flow patterns.
-
-## Contributing
-
-Contributions to this project are welcome. Feel free to open issues or pull requests for bug fixes, improvements, or new features.
 
 
 ## Acknowledgements
